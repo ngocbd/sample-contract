@@ -1,0 +1,17 @@
+{
+  "addresses": {
+    "sanctionsList": "0x2d2d16Ce5D18098Acb5c73700d7A240c68c0b723",
+    "admin": "0x482bE3Ec3A24eE4FEc390576473dbc9DaD2E6d66",
+    "sequencer": "0x482bE3Ec3A24eE4FEc390576473dbc9DaD2E6d66",
+    "usdc": "0x5c85f1a9407B0B3aB1784B13Ae85Cd1B831d23e7",
+    "btc": "0x2bB04189F6DC7ce2a8B7D84337e9d43D1baEa67F",
+    "eth": "0x722A34C8949623073838136F2AE9bc55f3815678",
+    "feeCalculator": "0x4239678a133C02b5f784a4DC451C4Fa1b26B7Fe8",
+    "spotEngine": "0xcbeC83A24D8AA4AAE56B0c4f04870cb28C31cFc9",
+    "perpEngine": "0x4DF708de7c948B4E4cCE7b3FFf9A7b79a170c4a3",
+    "clearinghouseLiq": "0x10E9C96c09e95999A6b4c73536E17C099E170F9E",
+    "clearinghouse": "0xe6c02dc7B93f74f2AB64EE11F7f3d9f2af6C4Eeb",
+    "endpoint": "0x119c96f206087d65b5e4df21D2802A8b4Dafed68",
+    "offchainBook": "0x6135dfd3770Bdd03c016e9d56047F73449b7B492"
+  }
+}
